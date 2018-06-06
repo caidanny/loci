@@ -1,0 +1,13 @@
+{
+	"basicInfo": {
+		"department": "General Department",
+		"title": "",
+		"natureOfRequest": "A Test Rn"
+	},
+	"callDetails": {
+		"customerName": "",
+		"customerPhone": "0123456789",
+		"customerAddress": "None",
+		"status": "Active"
+	}
+}
